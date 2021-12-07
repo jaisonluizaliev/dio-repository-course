@@ -1,0 +1,3 @@
+this note is for information about progress in dio plataform
+
+and test for initial commit git
